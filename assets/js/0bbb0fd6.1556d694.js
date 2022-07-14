@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgemunion_github_io=self.webpackChunkgemunion_github_io||[]).push([[9990],{7438:function(u){u.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"api"}')}}]);
